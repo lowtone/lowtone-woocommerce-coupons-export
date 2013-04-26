@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Export Coupons\n"
-"POT-Creation-Date: 2013-04-26 18:13+0100\n"
-"PO-Revision-Date: 2013-04-26 18:14+0100\n"
+"POT-Creation-Date: 2013-04-26 19:10+0100\n"
+"PO-Revision-Date: 2013-04-26 19:10+0100\n"
 "Last-Translator: Paul van der Meijs <info@lowtone.nl>\n"
 "Language-Team: Lowtone <info@lowtone.nl>\n"
 "Language: Dutch\n"
@@ -15,6 +15,6 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: ../..\n"
 
-#: ../../lowtone-woocommerce-coupons-export.php:51
+#: ../../lowtone-woocommerce-coupons-export.php:54
 msgid "Export Coupons"
 msgstr "Kortingsbonnen exporteren"
